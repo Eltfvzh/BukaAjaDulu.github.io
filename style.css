@@ -1,6 +1,7 @@
 html{
     background-image: url(back.jpg);
     background-size: cover;
+    background-attachment: fixed;
 }
 body{
     margin: 0;
