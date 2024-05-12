@@ -19,6 +19,7 @@ body{
 .header .head p{
     padding-right: 1em;
     padding-left: 1em;
+    font-size: 18px;
 }
 .content{
     margin: -17px 0 0 0;
